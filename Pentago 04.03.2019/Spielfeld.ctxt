@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Spielfeld
+comment0.text=\r\n\ Ein\ Spielfeld\ besteht\ aus\ 4\ 3x3-Feldern\ die\ sich\ drehen\ lassen\r\n\ \r\n\ @author\ (Merlin)\ \r\n\ @version\ (03.03.2019)\r\n
+comment1.params=
+comment1.target=Spielfeld()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Spielfeld\r\n
+comment2.params=x\ y\ aktSpieler
+comment2.target=void\ setzeStein(int,\ int,\ int)
+comment2.text=\r\n\ Ein\ Beispiel\ einer\ Methode\ -\ ersetzen\ Sie\ diesen\ Kommentar\ mit\ Ihrem\ eigenen\r\n\ \r\n\ @param\ \ x\ \ \ \ \ \ \ \ \ \ \ \ die\ Spalte,\ in\ die\ der\ Stein\ platziert\ werden\ soll\r\n\ @param\ \ y\ \ \ \ \ \ \ \ \ \ \ \ die\ Reihe,\ in\ die\ der\ Stein\ platziert\ werden\ soll\r\n\ @param\ \ aktSpieler\ \ \ je\ nachdem\ welcher\ Spieler\ gerade\ am\ Spielen\ ist\ eine\ 1\ oder\ eine\ 0,\ damit\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ unterschiedliche\ Farben\ verwendet\ werden\ k\u00F6nnen\ \r\n
+comment3.params=
+comment3.target=boolean\ sindFuenfFolgende()
+comment3.text=\r\n\ Das\ Spielfeld\ wird\ auf\ f\u00FCnf\ folgende\ \ \u00FCberpr\u00FCft\r\n
+comment4.params=
+comment4.target=boolean\ fuenfSenkrecht()
+comment5.params=
+comment5.target=boolean\ fuenfWaagrecht()
+comment6.params=
+comment6.target=boolean\ fuenfDiagAufsteigend()
+comment7.params=
+comment7.target=boolean\ fuenfDiagAbsteigend()
+numComments=8

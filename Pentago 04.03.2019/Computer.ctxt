@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Computer
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Computer.\r\n\ \r\n\ @author\ (Merlin)\ \r\n\ @version\ (03.03.2019)\r\n
+comment1.params=n\ s
+comment1.target=Computer(java.lang.String,\ Spielfeld)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Computer\r\n
+comment2.params=
+comment2.target=void\ macheZug()
+comment2.text=\r\n\ Ein\ Beispiel\ einer\ Methode\ -\ ersetzen\ Sie\ diesen\ Kommentar\ mit\ Ihrem\ eigenen\r\n\ \r\n\ @param\ \ y\ \ \ \ ein\ Beispielparameter\ f\u00FCr\ eine\ Methode\r\n\ @return\ \ \ \ \ \ \ \ die\ Summe\ aus\ x\ und\ y\r\n
+comment3.params=
+comment3.target=void\ feldWaehlen()
+comment4.params=
+comment4.target=void\ dreiMalDreiDrehen()
+numComments=5
