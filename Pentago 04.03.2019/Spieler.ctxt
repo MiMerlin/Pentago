@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Spieler
+comment0.text=\r\n\ Abstrakte\ Klasse\ Spieler\ -\ beschreiben\ Sie\ hier\ die\ Klasse\r\n\ \r\n\ @author\ (Merlin)\r\n\ @version\ (03.03.2019)\r\n
+comment1.params=
+comment1.target=void\ macheSpielzug()
+comment1.text=\r\n\ Der\ Spieler\ w\u00E4hlt\ ein\ Feld\ aus,\ setzt\ seinen\ Stein\ und\ w\u00E4hlt\ dann\ ein\ dreiMalDrei-Feld,\r\n\ welches\ er\ drehen\ m\u00F6chte\ und\ dreht\ es\r\n
+comment2.params=x\ y
+comment2.target=void\ feldWaehlen(int,\ int)
+comment2.text=\r\n\ Der\ Spieler\ w\u00E4hlt\ das\ Feld\ aus,\ auf\ das\ er\ seinenStein\ legen\ m\u00F6chte\r\n
+comment3.params=
+comment3.target=void\ dreiMalDreiDrehen()
+comment3.text=\r\n\ Der\ Spieler\ w\u00E4hlt\ ein\ dreiMalDrei-Feld,\ welches\ er\ danach\ entweder\ im-\ oder\ gegen\ den\r\n\ Uhrzeigersinn\ dreht\r\n
+numComments=4

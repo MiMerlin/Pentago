@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pentago
+comment0.text=\r\n\ Pentago\ es\ gibt\ ein\ Spielfeld,\ das\ aus\ 4\ 3x3-Feldern\ besteht,\ die\ sich\ jeweils\ drehen\ lassen.\ 2\ Spieler\ \r\n\ spielen\ gegeneinander,\ indem\ immer\ ein\ Spieler\ einen\ stein\ auf\ eins\ der\ 3x3-Felder\ legt\ und\ anschlie\u00DFend\ ein\ \r\n\ beliebiges\ 3x3-Feld\ in\ eine\ beliebigeRichtung\ um\ 90\ Grad\ dreht.\r\n\ Gewonnen\ hat\ der\ Spieler\ der\ zuerst\ f\u00FCnf\ seiner\ Steine\ in\ einer\ Reihe\ (Waagrecht,\ Senkrecht\ oder\ Diagonal)\ hat.\r\n\ \r\n\ @author\ (Merlin)\ \r\n\ @version\ (03.03.2019)\r\n
+comment1.params=s1\ s2\ z
+comment1.target=Pentago(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Pentago\r\n
+comment2.params=
+comment2.target=void\ rundeSpielen()
+comment2.text=\r\n\ Die\ Methode\ rundeSpielen()\ wird\ so\ lange\ ausgef\u00FChrt,\ bis\ einer\ der\ beiden\ Spieler\ gewonnen\ hat\r\n
+numComments=3
