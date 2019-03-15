@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pentago
+comment0.text=\r\n\ Pentago\ ist\ ein\ Spiel,\ bei\ dem\ es\ ein\ Spielfeld\ gibt,\ das\ aus\ 4\ 3x3-Feldern\ besteht,\ die\ sich\ jeweils\ drehen\ lassen.\ 2\ Spieler\ \r\n\ spielen\ gegeneinander,\ indem\ immer\ ein\ Spieler\ einen\ Stein\ auf\ eins\ der\ 3x3-Felder\ legt\ und\ anschlie\u00DFend\ ein\ \r\n\ beliebiges\ 3x3-Feld\ in\ eine\ beliebige\ Richtung\ um\ 90\ Grad\ dreht.\r\n\ Gewonnen\ hat\ der\ Spieler\ der\ zuerst\ f\u00FCnf\ seiner\ Steine\ in\ einer\ Reihe\ (Waagrecht,\ Senkrecht\ oder\ Diagonal)\ hat.\r\n
+comment1.params=pNameS1\ pNameS2
+comment1.target=Pentago(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Pentago\r\n\ \r\n\ @param\ \ pNameS1\ \ Ein\ Name\ f\u00FCr\ Spieler\ 1\r\n\ @param\ \ pNameS2\ \ Ein\ Name\ f\u00FCr\ Spieler\ 2\r\n
+comment2.params=x\ y
+comment2.target=void\ aktSpielerSetze(int,\ int)
+comment2.text=\r\n\ der\ aktuelle\ Spieler\ setzt\ einen\ Stein\r\n\ \!Achtung\!\ die\ angaben\ sind\ f\u00FCr\ ein\ sechs-mal-sechs-Feld\ und\ werden\ automatisch\ ins\r\n\ richtige\ drei-mal-drei-Feld\ eingetragen\r\n\ \r\n\ @param\ \ x\ \ \ \ 0\ <\=\ X\ <\=\ 5\r\n\ @param\ \ y\ \ \ \ 0\ <\=\ Y\ <\=\ 5\r\n
+comment3.params=i\ j\ cw
+comment3.target=void\ aktSpielerDrehe(int,\ int,\ boolean)
+comment3.text=\r\n\ der\ aktuelle\ Spieler\ dreht\ ein\ drei-mal-drei-Feld\r\n\ \r\n\ @param\ \ i\ \ \ \ \=\ 0\ f\u00FCr\ ein\ Feld\ auf\ der\ linken\ Seite\ und\ \=\ 1\ f\u00FCr\ ein\ Feld\ auf\ der\ rechten\ Seite\r\n\ @param\ \ j\ \ \ \ \=\ 0\ f\u00FCr\ ein\ oberes\ Feld\ und\ \=\ 1\ f\u00FCr\ ein\ unteres\ Feld\r\n\ @param\ \ cw\ \ \ \=\ true,\ wenn\ mit\ der\ Uhr\ (clock\ wise)\ gedreht\ werden\ soll\r\n
+comment4.params=x\ y
+comment4.target=int\ getWert(int,\ int)
+comment4.text=\r\n\ gibt\ den\ Wert\ des\ gew\u00E4hlten\ Feldes\ aus\r\n\ \r\n\ @param\ \ x\ \ \ \ 0\ <\=\ X\ <\=\ 5\r\n\ @param\ \ y\ \ \ \ 0\ <\=\ Y\ <\=\ 5\r\n
+comment5.params=
+comment5.target=void\ lasseFeldAusgeben()
+comment5.text=\r\n\ Das\ Feld\ wird\ ausgegeben\r\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Mensch
+comment0.text=\r\n\ Ein\ Mensch\ ist\ ein\ am\ Spiel\ Pentago\ teilnehmender\ Spieler\r\n
+comment1.params=pFeld\ pName\ sN
+comment1.target=Mensch(Spielfeld,\ java.lang.String,\ int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Mensch\r\n
+comment2.params=
+comment2.target=void\ resetteBooleanWerte()
+comment2.text=\r\n\ Die\ boolean-Werte\ "steinGesetzt"\ und\ "feldGedreht"\ werden\ auf\ "falsch"\ gesetzt\ \r\n
+comment3.params=x\ y
+comment3.target=void\ setzeStein(int,\ int)
+comment3.text=\r\n\ Ein\ Beispiel\ einer\ Methode\ -\ ersetzen\ Sie\ diesen\ Kommentar\ mit\ Ihrem\ eigenen\r\n\ \r\n\ @param\ \ x\ \ \ \ x-Position\ des\ zu\ setzenden\ Steines\r\n\ @param\ \ y\ \ \ \ y-Position\ des\ zu\ setzenden\ Steines\r\n
+comment4.params=i\ j\ cw
+comment4.target=void\ dmdDrehen(int,\ int,\ boolean)
+comment4.text=\r\n\ Der\ Spieler\ dreht\ ein\ beliebiges\ drei-mal-drei-Feld\r\n\ \r\n\ @param\ \ i\ \ \ \ x-Koordinate\r\n\ @param\ \ j\ \ \ \ y-Koordinate\r\n\ @param\ \ cw\ \ \ \=\ true,\ wenn\ das\ Feld\ mit\ der\ Uhr\ (clockwise)\ gedreht\ werden\ soll\r\n
+comment5.params=
+comment5.target=int\ getSpielerNummer()
+comment5.text=\r\n\ Gibt\ die\ dem\ Spieler\ zugeordnete\ Nummer\ zur\u00FCck\r\n\ \r\n\ @return\ \ spielerNummer\ \ \ die\ dem\ Spieler\ zugeordnete\ int-Variable\r\n
+numComments=6
