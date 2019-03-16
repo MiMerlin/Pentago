@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ControllerSpiel
+comment0.text=\r\n\ @author\ (Bastian,\ Merlin)\r\n\ @version\ (03.03.2019)\r\n
+comment1.params=pViewSpiel\ s1\ s2\ z
+comment1.target=ControllerSpiel(ViewSpiel,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=s
+comment3.target=void\ updateFeld(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getAS()
+comment5.params=
+comment5.target=java.lang.String\ getS1()
+comment6.params=
+comment6.target=java.lang.String\ getS2()
+comment7.params=a\ b\ c\ d
+comment7.target=int\ getAusSpielSpielfeldDmd(int,\ int,\ int,\ int)
+comment8.params=x\ y
+comment8.target=int\ getAusSpielSpielfeldPruef(int,\ int)
+comment9.params=pSpiel
+comment9.target=void\ gibSpielfeldAnViewSpiel(Pentago)
+numComments=10

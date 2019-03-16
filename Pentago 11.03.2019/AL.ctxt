@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=AL
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Mouse.\n\ \n\ @author\ (Merlin)\ \n\ @version\ (07.03.2019)\n
+comment1.params=
+comment1.target=AL()
+comment2.params=e
+comment2.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment3.params=e
+comment3.target=void\ mouseMoved(java.awt.event.MouseEvent)
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=e
+comment5.target=int\ getY(java.awt.event.MouseEvent)
+numComments=6
