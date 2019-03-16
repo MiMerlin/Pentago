@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Pentago
+comment0.text=\r\n\ Pentago\ ist\ ein\ Spiel,\ bei\ dem\ es\ ein\ Spielfeld\ gibt,\ das\ aus\ 4\ 3x3-Feldern\ besteht,\ die\ sich\ jeweils\ drehen\ lassen.\ 2\ Spieler\ \r\n\ spielen\ gegeneinander,\ indem\ immer\ ein\ Spieler\ einen\ Stein\ auf\ eins\ der\ 3x3-Felder\ legt\ und\ anschlie\u00DFend\ ein\ \r\n\ beliebiges\ 3x3-Feld\ in\ eine\ beliebige\ Richtung\ um\ 90\ Grad\ dreht.\r\n\ Gewonnen\ hat\ der\ Spieler\ der\ zuerst\ f\u00FCnf\ seiner\ Steine\ in\ einer\ Reihe\ (Waagrecht,\ Senkrecht\ oder\ Diagonal)\ hat.\r\n\ \r\n\ @author\ (Merlin,\ Erik)\ \r\n\ @version\ (11.03.2019)\r\n
+comment1.params=s1\ s2\ z\ mySC
+comment1.target=Pentago(java.lang.String,\ java.lang.String,\ int,\ ControllerSpiel)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Pentago\r\n\ \r\n\ @param\ \ s1\ \ \ Name\ f\u00FCr\ Spieler\ 1\r\n\ @param\ \ s2\ \ \ Name\ f\u00FCr\ Spieler\ 2\r\n\ @param\ \ z\ \ \ \ anzahl\ menschlicher\ Spieler\r\n
+comment2.params=
+comment2.target=void\ rundeSpielen()
+comment2.text=\r\n\ Die\ Methode\ rundeSpielen()\ wird\ so\ lange\ ausgef\u00FChrt,\ bis\ einer\ der\ beiden\ Spieler\ gewonnen\ hat\r\n
+comment3.params=
+comment3.target=java.lang.String\ getAktSpieler()
+comment4.params=
+comment4.target=java.lang.String\ getS1()
+comment5.params=
+comment5.target=java.lang.String\ getS2()
+comment6.params=
+comment6.target=int\ getAktSn()
+comment7.params=a\ b\ c\ d
+comment7.target=int\ getAusSpielfeldDmd(int,\ int,\ int,\ int)
+comment8.params=x\ y
+comment8.target=int\ getAusSpielfeldPruef(int,\ int)
+numComments=9

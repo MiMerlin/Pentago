@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Mensch
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Mensch.\r\n\ \r\n\ @author\ (Merlin)\ \r\n\ @version\ (11.03.2019)\r\n
+comment1.params=n\ s\ spiel
+comment1.target=Mensch(java.lang.String,\ Spielfeld,\ Pentago)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Mensch\r\n
+comment2.params=
+comment2.target=void\ resetteBooleanWerte()
+comment3.params=
+comment3.target=void\ macheSpielzug()
+comment3.text=\r\n\ Ein\ Beispiel\ einer\ Methode\ -\ ersetzen\ Sie\ diesen\ Kommentar\ mit\ Ihrem\ eigenen\r\n\ \r\n\ @param\ \ y\ \ \ \ ein\ Beispielparameter\ f\u00FCr\ eine\ Methode\r\n\ @return\ \ \ \ \ \ \ \ die\ Summe\ aus\ x\ und\ y\r\n
+comment4.params=
+comment4.target=void\ feldWaehlen()
+comment5.params=
+comment5.target=void\ dreiMalDreiDrehen()
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=a\ b\ c\ d
+comment7.target=int\ get(int,\ int,\ int,\ int)
+numComments=8

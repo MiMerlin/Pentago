@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ControllerSpieler
+comment0.text=\r\n\ \r\n\ @author\ (Bastian,\ Merlin)\r\n\ @version\ (03.03.2019)\r\n
+comment1.params=pViewSpieler\ z
+comment1.target=ControllerSpieler(ViewSpieler,\ int)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

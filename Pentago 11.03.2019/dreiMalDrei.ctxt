@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=dreiMalDrei
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ dreiMalDrei.\r\n\ \r\n\ @author\ (Merlin)\ \r\n\ @version\ (03.03.2019)\r\n
+comment1.params=
+comment1.target=dreiMalDrei()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ dreiMalDrei\r\n
+comment2.params=i\ j\ aktS
+comment2.target=void\ setzeStein(int,\ int,\ int)
+comment2.text=\r\n\ Eine\ Variable\ des\ Arrays\ dreiMalDrei\ an\ der\ Stelle\ [i][j],\ wird\ je\ nach\ Wert\ des\ Parameters\ aktS\ auf\ 0\ oder\ 1\ gesetzt\r\n\ \r\n\ @param\ \ i\ \ \ \ in\ der\ i-ten\ Spalte\r\n\ @param\ \ j\ \ \ \ \ \ \ \ in\ der\ j-ten\ Zeile\r\n\ @param\ \ aktS\ \ \ \ \ der\ Wert\ f\u00FCr\ den\ aktuellenSpieler\ (0\ oder1)\r\n
+comment3.params=cw
+comment3.target=void\ rotateFeld(boolean)
+comment3.text=\r\n\ Diese\ Methode\ wird\ aufgerufen,\ wenn\ ein\ drei\ mal\ drei\ Feld\ gedreht\ werden\ soll\r\n\ \r\n\ @param\ \ cw\ \ \=\ true,\ wenn\ das\ Feld\ mit\ der\ Uhr\ (clock-wise)\ gedreht\ werden\ soll\r\n
+comment4.params=
+comment4.target=void\ rotateCw()
+comment4.text=\r\n\ Hilfsmethode\ f\u00FCr\ rotateFeld()\r\n
+comment5.params=
+comment5.target=void\ rotateCcw()
+comment5.text=\r\n\ Hilfsmethode\ f\u00FCr\ rotateFeld()\r\n
+comment6.params=k\ l
+comment6.target=int\ getWert(int,\ int)
+numComments=7
